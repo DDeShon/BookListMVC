@@ -382,3 +382,4 @@ C:\Users\Improbus\VSProjects\repos\BookListMVC\BookListMVC\bin\Debug\netcoreapp3
 C:\Users\Improbus\VSProjects\repos\BookListMVC\BookListMVC\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
 C:\Users\Improbus\VSProjects\repos\BookListMVC\BookListMVC\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
 C:\Users\Improbus\VSProjects\repos\BookListMVC\BookListMVC\obj\Debug\netcoreapp3.1\BookListMVC.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Improbus\VSProjects\repos\BookListMVC\BookListMVC\obj\Debug\netcoreapp3.1\Razor\Views\Books\Index.cshtml.g.cs
